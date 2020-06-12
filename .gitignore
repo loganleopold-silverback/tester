@@ -1,0 +1,9 @@
+/app/sql
+
+/app/public/*
+!/app/public/wp-content
+
+/conf
+
+**package-lock.json
+**package.json
